@@ -1,0 +1,110 @@
+div.based-on-visit{
+    width: 100%;
+    height: 445px;
+}
+div.based-on-visit>div.box{
+    width: 1305px;
+    height: 420px;
+    margin-top: 1%;
+    margin-right: 1.6%;
+    border-radius: 15px;
+    display: inline-block;
+}
+div.based-on-visit>div.box>div.mobile,div.mobile-cover,div.headphones,div.smart-watch{
+    width: 322px;
+    height: 420px;
+    display: inline-block;
+}
+div.based-on-visit>div.box>div.mobile>div.title{
+    font-size: larger;
+    text-align: right;
+}
+div.based-on-visit>div.box>div.mobile>div.additional-text{
+    font-size: small;
+    text-align: right;
+}
+div.based-on-visit>div.box>div.mobile>div{
+    font-size: small;
+    text-align: center;
+}
+div.based-on-visit>div.box>div.mobile>div>a{
+    text-decoration: none;
+}
+div.based-on-visit>div.box>div.mobile>div.first-mobile,div.second-mobile,div.third-mobile,div.fourth-mobile{
+    width: 90px;
+    height: 120px;
+    margin-top: 40px;
+    margin-right: 35px;
+    display: inline-block;
+}
+
+a>img{
+    width: 90px;
+    height: 120px;
+    object-fit: cover;
+}
+div.based-on-visit>div.box>div.mobile-cover>div.first-mobile-cover,div.second-mobile-cover,div.third-mobile-cover,div.fourth-mobile-cover{
+    width: 90px;
+    height: 120px;
+    margin-top: 40px;
+    margin-right: 35px;
+    display: inline-block;
+}div.based-on-visit>div.box>div.mobile-cover>div.title{
+    font-size: larger;
+    text-align: right;
+}
+div.based-on-visit>div.box>div.mobile-cover>div.additional-text{
+    font-size: small;
+    text-align: right;
+}
+div.based-on-visit>div.box>div.mobile-cover>div{
+    font-size: small;
+    text-align: center;
+}
+div.based-on-visit>div.box>div.mobile-cover>div>a{
+    text-decoration: none;
+}
+div.based-on-visit>div.box>div.headphones>div.first-headphones,div.second-headphones,div.third-headphones,div.fourth-headphones{
+    width: 90px;
+    height: 120px;
+    margin-top: 40px;
+    margin-right: 35px;
+    display: inline-block;
+}
+div.based-on-visit>div.box>div.headphones>div.title{
+    font-size: larger;
+    text-align: right;
+}
+div.based-on-visit>div.box>div.headphones>div.additional-text{
+    font-size: small;
+    text-align: right;
+}
+div.based-on-visit>div.box>div.headphones>div{
+    font-size: small;
+    text-align: center;
+}
+div.based-on-visit>div.box>div.headphones>div>a{
+    text-decoration: none;
+}
+div.based-on-visit>div.box>div.smart-watch>div.first-smart-watch,div.second-smart-watch,div.third-smart-watch,div.fourth-smart-watch{
+    width: 90px;
+    height: 120px;
+    margin-top: 40px;
+    margin-right: 35px;
+    display: inline-block;
+}
+div.based-on-visit>div.box>div.smart-watch>div.title{
+    font-size: larger;
+    text-align: right;
+}
+div.based-on-visit>div.box>div.smart-watch>div.additional-text{
+    font-size: small;
+    text-align: right;
+}
+div.based-on-visit>div.box>div.smart-watch>div{
+    font-size: small;
+    text-align: center;
+}
+div.based-on-visit>div.box>div.smart-watch>div>a{
+    text-decoration: none;
+}

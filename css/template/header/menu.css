@@ -1,0 +1,29 @@
+div.menu {
+  box-shadow: 0px 1px 0px black;
+}
+div.menu > nav > ul > li {
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 9px;
+  font-size: small;
+  border: 1px solid white;
+  border-radius: 2px;
+  transition: 400ms;
+}
+div.menu > nav > ul > li:hover {
+  border: 1px solid black;
+  border-radius: 3px;
+}
+div.menu > nav > ul > li > a {
+  color: black;
+  background-color: white;
+  text-decoration: none;
+}
+div.menu > nav > ul > li:hover > a {
+  background-color: lightslategray;
+  color: white;
+}
+div.menu > nav > ul > li > a > i {
+  margin-left: 8px;
+}

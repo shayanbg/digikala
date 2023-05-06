@@ -1,0 +1,21 @@
+div.suggest-circle {
+  width: 100%;
+  height: 145px;
+}
+div.suggest-circle > div {
+  display: inline-block;
+  width: 79px;
+  height: 60px;
+  margin-top: 31px;
+  margin-right: 5.7%;
+  text-align: center;
+  font-size: small;
+}
+div.suggest-circle > div > a{
+  text-decoration: none;
+}
+div.suggest-circle > div > a > img {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}

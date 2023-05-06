@@ -1,0 +1,16 @@
+@import url(./main/circle-story.css);
+@import url(./main/slider.css);
+@import url(./main/suggest-circle.css);
+@import url(./main/second-slider.css);
+@import url(./main/suggest-box.css);
+@import url(./main/discount.css);
+@import url(./main/category.css);
+@import url(./main/festival.css);
+@import url(./main/digikala-offers.css);
+@import url(./main/third-slider.css);
+@import url(./main/second-suggest-box.css);
+@import url(./main/based-on-visit.css);
+main {
+  width: 100%;
+  height: inherit;
+}

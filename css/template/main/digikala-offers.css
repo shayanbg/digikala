@@ -1,0 +1,65 @@
+div.digikala-offers {
+  width: 100%;
+  height: 390px;
+}
+div.digikala-offers > div.title {
+  text-align: center;
+  font-size: x-large;
+}
+div.digikala-offers > div.offers-main-box {
+  width: 1305px;
+  height: 315px;
+  display: inline-block;
+  margin-top: 3%;
+  margin-right: 1.5%;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+div.digikala-offers > div.offers-main-box > div.top {
+  width: inherit;
+  height: 157.5px;
+  border-radius: 10px;
+  border-bottom: 1px solid black;
+}
+div.digikala-offers > div.offers-main-box > div.top > div {
+  width: 130px;
+  height: 156px;
+  display: inline-block;
+  text-align: center;
+  margin-right: 52px;
+  border-radius: 10px;
+  font-size: small;
+  border-left: 1px solid black;
+}
+div.digikala-offers > div.offers-main-box > div.top > div > a > img {
+  width: 100px;
+  height: 100px;
+  margin-top: 25px;
+  margin-right: 12.4px;
+  border-radius: 40%;
+  object-fit: cover;
+}
+div.digikala-offers > div.offers-main-box > div.bottom {
+  width: inherit;
+  height: 157.5px;
+  border-radius: 10px;
+  border-bottom: 1px solid black;
+}
+div.digikala-offers > div.offers-main-box > div.bottom > div {
+  width: 130px;
+  height: 152px;
+  display: inline-block;
+  text-align: center;
+  margin-right: 52px;
+  border-radius: 10px;
+  font-size: small;
+  border-left: 1px solid black;
+}
+div.digikala-offers > div.offers-main-box > div.bottom > div > a > img {
+  width: 100px;
+  height: 100px;
+  margin-top: 25px;
+  margin-right: 12.4px;
+  border-radius: 40%;
+  object-fit: cover;
+}

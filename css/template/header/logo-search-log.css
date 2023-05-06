@@ -1,0 +1,79 @@
+div.logo-search {
+  width: 100%;
+  height: 70px;
+  background-color: whitesmoke;
+}
+div.logo {
+  width: 15%;
+  height: inherit;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+}
+div.logo > a > img {
+  width: 115px;
+  height: 30px;
+  margin-top: 20px;
+}
+div.search {
+  width: 70%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: -5px;
+}
+div.search > form {
+  width: 45%;
+  height: 60%;
+  margin: 14px;
+  border-radius: 10px;
+  background-color: white;
+  display: flex;
+}
+div.search > form > input {
+  width: 90%;
+  height: 60%;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+  border: none;
+}
+div.search > form > button {
+  margin-top: 12px;
+  width: 40px;
+  height: 22px;
+  align-items: center;
+  background-color: white;
+  border: none;
+  margin-left: -19px;
+  cursor: pointer;
+}
+
+div.login {
+  width: 15%;
+  height: inherit;
+  display: inline-block;
+  margin-right: -5.2px;
+  vertical-align: middle;
+}
+div.login > a {
+  display: block;
+  height: 30px;
+  margin: 20px auto;
+  padding-top: 5px;
+  width: fit-content;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  color: black;
+  border: 2px solid gray;
+  border-radius: 10px;
+  transition: 300ms;
+}
+div.login > a:hover {
+  background-color: black;
+  color: white;
+}
+div.login > a > i {
+  margin-left: 5px;
+}

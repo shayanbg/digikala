@@ -1,0 +1,14 @@
+* {
+  direction: rtl;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: yekan;
+}
+@font-face {
+  font-family: yekan;
+  src: url(../../font/IRANYekanWeb.eot);
+  src: url(../../font/IRANYekanWeb.ttf);
+  src: url(../../font/IRANYekanWeb.woff);
+  src: url(../../font/IRANYekanWeb.woff2);
+}
