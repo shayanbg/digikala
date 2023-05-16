@@ -33,6 +33,7 @@ div.suggest-box > div.box > div.amazing {
 div.suggest-box > div.box > div.amazing > a > img {
   width: 255px;
   height: 33px;
+  object-fit: cover;
 }
 div.suggest-box > div.box > div.discount-text {
   display: inline-block;

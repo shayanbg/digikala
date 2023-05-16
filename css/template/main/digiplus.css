@@ -1,0 +1,99 @@
+div.digiplus-box {
+  width: 1307px;
+  height: 391px;
+  background-color: rgb(148, 27, 128);
+  margin-right: 18px;
+  border-radius: 10px;
+}
+div.digiplus-box > div.digiplus-right {
+  width: 420px;
+  height: 391px;
+  vertical-align: top;
+  margin-left: -4px;
+  background-image: url(../../../images/digiplus/background/digiplus.png);
+  background-size: 360px;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  display: inline-block;
+}
+div.digiplus-box > div.digiplus-right > div.img {
+  width: 130px;
+  height: 36px;
+  margin-top: 40px;
+  margin-right: 35px;
+}
+div.digiplus-box > div.digiplus-right > div.img > a > img {
+  object-fit: cover;
+  width: 125px;
+  height: 34px;
+}
+div.digiplus-box > div.digiplus-right > div.additional {
+  margin-top: 10px;
+  margin-right: 35px;
+  font-size: small;
+  color: whitesmoke;
+}
+div.digiplus-box > div.digiplus-right > div.sign-in {
+  width: 120px;
+  height: 30px;
+  margin-top: 15px;
+  margin-right: 40px;
+  border: 2px solid white;
+  border-radius: 10px;
+  text-align: center;
+}
+div.digiplus-box > div.digiplus-right > div.sign-in > a {
+  color: white;
+  text-decoration: none;
+}
+div.digiplus-box > div.digiplus-right > div.sign-in > a > i {
+  margin-right: 15px;
+  color: white;
+  vertical-align: middle;
+}
+div.digiplus-box > div.digiplus-left {
+  display: inline-block;
+  width: 870px;
+  height: 357px;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  margin-top: 1.2%;
+}
+div.digiplus-box > div.digiplus-left > div.additional {
+    width: 170px;
+    height: 30px;
+  font-size: large;
+  margin-top: 20px;
+  margin-right: 10px;
+  display: inline-block;
+}
+div.digiplus-box > div.digiplus-left > div.additional > i {
+  margin-left: 12px;
+  color: rgb(181, 56, 169);
+}
+div.digiplus-box > div.digiplus-left > div.view-all {
+    width: max-content;
+    height: max-content;
+  display: inline-block;
+  margin-top: -50px;
+  margin-right: 760px;
+  vertical-align: middle;
+  font-size: small;
+}
+div.digiplus-box > div.digiplus-left > div.view-all > a {
+  text-decoration: none;
+}
+div.digiplus-box > div.digiplus-left > div.view-all > a > i {
+  margin-right: 10px;
+  vertical-align: middle;
+}
+div.digiplus-box > div.digiplus-left > div {
+  display: inline-block;
+  width: 78px;
+  height: 105px;
+  margin-top: 10px;
+  margin-right: 50px;
+}
+div.digiplus-box > div.digiplus-left > div > img {
+  object-fit: cover;
+}
